@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CoronaStats</string>
+    <string name="logoutConfirm">Jou e-pos adres is nie geverifieer</string>
+    <string name="noEmailClient">Geen e-pos kliënte op toestel geïnstalleer</string>
+    <string name="sendEmailWith">Stuur e-pos met..</string>
+    <string name="iloveThisApp">Ek is lief vir hierdie toepassing</string>
+    <string name="thanks">Dankie vir hierdie toepassing, dit is so nuttig!</string>
+    <string name="help_fragment">Help</string>
+    <string name="about_fragment">Oor</string>
+
+
+    <!--BoardingScreen-->
+    <string name="first_slide">Sosiale Distansiëring</string>
+    <string name="second_slide">Was Jou Hande Dikwels</string>
+    <string name="third_slide">Dra \'n Gesigsmasker</string>
+    <string name="fourth_slide">Bly By Die Huis</string>
+
+
+    <!-- Description -->
+    <string name="first_slide_desc">Hou jou afstand van ander om hulle te beskerm teen siek te.</string>
+    <string name="second_slide_desc">Was jou hande met seep en water, skrop jou hande vir minstens 30 sekondes.</string>
+    <string name="third_slide_desc"> Oorweeg die dra \'n gesigsmasker wanneer jy siek is met \'n hoes of nies</string>
+    <string name="forth_slide_desc">As jy by die huis bly sal dit help beheer die verspreiding van die virus aan vriende, en die breër gemeenskap.</string>
+
+    <!-- Buttons -->
+    <string name="skip">Slaan oor</string>
+    <string name="nxt_btn">Volgende</string>
+    <string name="lets_go">Kom Ons Begin</string>
+
+
+    <!-- ________________________________________________Privacy policy_________________________ -->
+    <string name="privacy_description">
+        Privaatheid kennisgewing coronastats \n
+Hierdie privaatheid kennis is om dit makliker te maak vir lede van die publiek om te verstaan hoe
+        coronastats kan jou persoonlike inligting proses gedurende die ongekende uitdagings ons is
+        almal in die gesig staar gedurende die coronavirus pandemie (COVID-19).
+        \n\n
+        A.   Privaatheidbeleid
+        \n
+        Coronastats is ontwerp en ontwikkel deur \'n gegradueerde
+        met groot etiese glo. Die beskerming van die privaatheid en sekuriteit van jou persoonlike
+        inligting (‘personal data’). Hierdie beleid (saam met ons gebruiksbepalings) beskryf hoe ons
+        insamel en gebruik jou persoonlike data tydens jou gebruik van hierdie toepassing, in
+        ooreenstemming met die General Data Protection Regulation (GDPR)
+        and Associated Data Protection Legislation.
+        \n\n
+        B.  Verwerking aktiwiteit
+        \n
+        Ten einde vir ons die gemeenskap gedurende hierdie tyd te help,
+        is dit nodig vir ons om te versamel, hou en verwerk persoonlike inligting oor jou. Die inligting
+        versamel en gehou sal wissel en sal afhang van die rede vir die verwerking. Ons sal persoonlike
+        inligting proses om:\n
+    \n\u25CF Sien covid-19 gebaseer op gebruiker en sosiale sorg liggame gebruik en die regering
+        insluitend die verskaffing van inligting aan die publiek oor covid-19 en sy doeltreffendheid
+        en inligting oor kapasiteit, medisyne, toerusting, voorrade, dienste en die werksmag binne
+        die gesondheidsdienste en volwasse maatskaplike sorg dienste.\n
+    \n\u25CF Die lewering van dienste aan pasiënte, klinici, die gesondheidsdienste en volwasse
+        sosiale dienste werksmag en die publiek oor en sorg in verband met covid-19, insluitend die
+        voorsiening van inligting, pas notas en die verskaffing van gesondheidsorg en volwasse
+        sosiale sorg dienste.\n
+    \n\u25CF Navorsing en beplanning met betrekking tot covid-19.\n
+
+     Inligting vereistes ten opsigte van ons verwerking, die onderstaande persoonlike data kan
+        verwerk word aktiwiteit:\n\u25CF naam \n\u25CF e-pos
+
+     \n\n
+        C.   Tipes data wat ons insamel oor jou
+        \n
+        Die coronastats-toepassing versamel, Winkel, en gebruik die
+        volgende kategorieë van data wanneer jy gebruik van hierdie toepassing maak: Die toepassing
+        slegs versamel twee tipes data van jou: Jou volle naam jou en e-pos adres. Die toepassing
+        hou nie op hoogte van geografiese ligging of enige soort GPS-instellings. Data wat jy
+        uitsluitlik verskaf hang af van jou. As jy \'n vals naam en e-posadres verskaf, die
+        toepassing sal beperk nie jy van die gebruik van dit se dienste en hulpbronne, maar die
+        e-pos voorsien moet geverifieer word.
+        \n\n
+        D.   Woordelys
+        \n
+        Waar ons verwys in hierdie beleid om jou ‘personal data’, beteken
+        ons enige inligting wat oor jou en van opgeneemde wat jy geïdentifiseer kan word. Dit sluit
+        nie data waar jou identiteit verwyder is (anonieme data).
+
+    Waar ons verwys na die ‘processing’ van jou persoonlike data, beteken ons enigiets wat ons doen
+        met daardie inligting, insluitend versameling, gebruik, berging, openbaarmaking of retensie.
+        \n\n
+        E.   Wanneer ons jou data versamel
+        \n
+        Ons sal die oorgrote meerderheid van data oor jou
+        versamel wanneer jy ons-toepassing register te gebruik, e-pos of ander sosiale media
+        funksies op ons-toepassing, wanneer jy kontak die span vir \'n probleem of voorstel
+        binne ons toepassing, neem deeglike oorweging wanneer hierdie e-pos stuur en hou dit formele.
+        \n\n
+        F.	Deel jou data met derde partye
+        \n
+        Jy kan jou data deel (skermskote) met derde partye wat dienste
+        deel verskaf vermoëns, die toepassing is nie hou van hierdie in of anders monitor hierdie
+        soort aksies.
+        \n\n
+        G.	Waar ons jou data Winkel
+        \n
+        Ons kan data versamel binne die toepassing of elektronies Winkel.
+        Die data is gestoor op ons veilige bedieners en/of in ons perseel binne Namibië.
+        \n\n
+        H.	Die behoud van jou data
+        \n
+        Ons sal net jou data behou vir so lank as ons dit nodig
+        het om aan die doeleindes, met inbegrip van enige met betrekking tot wetlike, rekeningkunde,
+        of verslagdoeningsvereistes.
+        \n\n
+        I.	Jou regte
+        \n
+           Onder sekere omstandighede, volgens Wet jy het die reg om:
+    \n\u25CF Versoek toegang tot jou data (algemeen bekend as \'n "toegang versoek"). Onderwerp dit
+        stel jou in staat om \'n kopie van jou data te ontvang en om seker te maak dat ons verwerking dit wettig.
+
+    \n\u25CF Request correction of your data. This enables you to ask us to correct any incomplete
+        or inaccurate information we hold about you.
+
+    \n\u25CF Versoek uitwissing van jou data. Dit stel jou in staat om ons te vra om te skrap of
+        verwyder jou data waar daar geen goeie rede vir ons voortsetting te verwerk. Jy het ook die
+        reg om te vra ons om te skrap of verwyder jou data waar jy jou reg uitgeoefen het met
+        betrekking tot verwerking (kyk hieronder).
+
+    \n\u25CF Teen die verwerking van jou data waar ons vertrou op ons regmatige belange [of dié van
+        \'n derde party] en daar is iets oor jou spesifieke situasie wat maak jy wil teen op hierdie
+        grond verwerk.
+
+    \n\u25CF Versoek die beperking van die verwerking van jou data. Dit stel jou in staat om ons te
+        vra die verwerking van jou data te staak, byvoorbeeld as jy wil hê ons moet vestig sy
+        akkuraatheid of die rede vir die verwerking dit.
+    \n\u25CF Versoek die oordrag van jou data na \'n ander party.
+        \n
+
+    Afhangende van die omstandighede en die aard van jou versoek kan dit nie moontlik wees vir ons
+        om te doen wat jy gevra het, byvoorbeeld, waar daar  \'n statutêre of kontraktuele vereiste
+        vir ons om jou data te verwerk en dit sal nie moontlik wees om aan ons wetlike verpligtinge
+        as ons te stop. Maar het dit toegelaat het om die verwerking, waar jy kan jy jou toestemming
+        op enige tyd onttrek deur hulle te ons by: Email@address.com in hierdie geval, sal ons die
+        verwerking stop egter so gou moontlik dit sal beïnvloed nie die lawfulness van enige
+        verwerking uitgevoer voordat jou onttrekking van toestemming en jy kan nie meer in staat
+        wees om die werf op dieselfde manier gebruik soos tevore.
+
+    As jy wil oefen enige van die regte wat hierbo beskryf of is ontevrede met die manier waarop ons
+        jou inligting gebruik het, moet jy die toepassing ontwikkelaar. Kontak ons sal soek om te
+        gaan met jou versoek sonder onnodige vertraging, en in elk geval in ooreenstemming met die
+        vereistes van die (GDPR). Let asseblief daarop dat ons \'n rekord van jou kommunikasie kan
+        hou om ons te help oplos enige probleme wat jy opper.
+        \n\n
+        J.	Verander na hierdie beleid
+        \n
+        Enige veranderinge wat ons kan maak om ons privaatheidbeleid
+        in die toekoms op hierdie bladsy gepos sal word. Kyk asseblief weer gereeld om enige
+        bywerkings of veranderinge aan ons privaatheidbeleid sien.
+
+
+    </string>
+
+
+
+    <!-- ________________________________________________Privacy policy End Here_________________________ -->
+
+
+    //General Country details
+
+    <string name="total_deaths">Totale Sterftes</string>
+    <string name="total_recovered">Totale Verhaal</string>
+    <string name="total_active">Totale Aktiewe</string>
+    <string name="symptoms">Simptome</string>
+    <string name="write_about_high_temperature">Skryf oor hoë temperatuur</string>
+    <string name="worldwide_cases">Coronavirus Pandemie</string>
+    <string name="prevention">Voorkoming</string>
+    <string name="treatment">Behandeling</string>
+    <string name="treatment_desc">Daar is geen spesifieke medisyne te voorkom of behandel coronavirus
+        siekte (COVID-19). Mense kan ondersteunend sorg nodig het om hulle te help asemhaal.
+    </string>
+    <string name="self_care">Self Sorg</string>
+    <string name="self_care_desc">As jy ligte simptome het, bly by die huis totdat jy herwin het. Jy kan jou simptome verlig as jy:</string>
+    <string name="helpline_number">Hulplyn nommer</string>
+    <string name="help_line">As jy simptome begin toon, GAAN NIE na \'n hospitaal, soek eerder vir hulp op die gratis hotline.</string>
+    <string name="logout">Teken Uit</string>
+    <string name="app_info">Info-toepassing</string>
+    <string name="connect_with_me">Wil meer weet?</string>
+    <string name="socials">Koppel</string>
+    <string name="privacy_policy">Privaatheidbeleid</string>
+    <string name="question_need_help">Vraag? Wil hierdie toepassing verbeter?</string>
+    <string name="contact_owner">Kontak ontwikkelaar</string>
+    <string name="_2020_2020_coronatracker">Kopiereg 2020 © CoronaStats</string>
+    <string name="legal_info">Wetlike inligting</string>
+    <string name="cancel">Kanselleer</string>
+    <string name="world_o_meters">World O meters</string>
+    <string name="world_health_organisation">World Health Organisation</string>
+    <string name="licence">
+        —OOPBRON LISENSEIE—
+        \n
+        \n
+        - icons8
+        \n\n
+        Aantekening, Wagwoord, Gebruiker Ens.. icon van icons8 \nhttps://icons8.com
+        \n\n
+        Gelisensieerde onder Creative Commons Attribution-NoDerivs 3.0 Uproted
+        \n\n
+        https://creativecommons.org/licenses/by-nd/3.0/ ©Icons8 LLC
+        \n\n
+
+        <!-- _______________________________________________________________________________ -->
+        - Freepik
+        \n\n
+        Coronavirus Donker logo-ikoon
+        Die volle bepalings van die lisensie is beskryf in artikel 7 van die Freepik
+Terme van die gebruik  \n\n(http://www.freepik.com)
+        \n\n
+        Kopiereg © 2010 Freepik Company S.L. Alle regte voorbehou.
+        <!-- _______________________________________________________________________________ -->
+        \n
+        \n
+        - BottomNavigationViewEx
+        \n
+        \n
+        Kopiereg © 2016 The BottomNavigationViewEx Projek skrywers (https://github.com/ittianyu/BottomNavigationViewEx)
+        \n
+        \n
+        Licenced onder MIT
+        \n
+        \n
+        DIE SAGTEWARE WORD VERSKAF "SOOS", SONDER WAARBORG VAN ENIGE AARD, UITDRUKLIK OF GEÏMPLISEERD,
+        INSLUITEND MAAR NIE BEPERK NIE TOT DIE GARANSIES VAN VERKOOPBAARHEID, FIKSHEID VIR \'N
+        SPESIFIEKE DOEL EN EN NONINFINGEMENT. IN GEEN GEVAL SAL DIE SKRYWERS OF KOPIEREGHOUER ETIKET
+        WORD VIR ENIGE EIS, SKADE OF ANDER AANSPREEKLIKHEID, OF IN \'N AKSIE OF ANDERSINS,
+        VOORTSPRUITEND UIT UIT OF IN VERBAND MET DIE SAGTEWARE OF GEBRUIK OF ANDER SAKE IN DIE SAGTEWARE.
+        \n\n\
+
+        <!-- _______________________________________________________________________________ --><![CDATA[
+
+        - Quicksand Font & Iconsolata Font
+        \n\n
+        Kopiereg 2011 Die Quicksand Projek Skrywers (https://github.com/andrew-paglinawan/QuicksandFamily), Met gereserveerde font naam
+        "Quicksand".
+
+        \n\n
+        Hierdie font sagteware is gelisensieerde onder die SIL oop font lisensie, weergawe 1.1.
+        Hierdie lisensie is hieronder gekopieer, en is ook beskikbaar met \'n FAQ by:
+        http://script.sil.org/OFL
+        \n\n
+
+        --------------------------------------------------------------------------------------------
+        \n
+    Mobiele toestel aansoek eindgebruiker lisensie ooreenkoms weergawe 1.1 - 27  August 2020
+        \n
+
+        --------------------------------------------------------------------------------------------
+        \n\n
+        BELANGRIK – LEES ASSEBLIEF VERSIGTIG:
+        \n\n
+        Hierdie eindgebruiker lisensieooreenkoms (hierdie "ooreenkoms") is \'n wettige ooreenkoms
+        tussen coronastats,\'n bewertjie aansoek besit en ontwerp deur agas phillipus (“corona stats”,
+         “ ons ”, of “ onse ”) en jy,\'n gebruiker (“ jy ” of “ons”) van een van ons mobiele aansoek
+         produkte, as verder hieronder beskryf waarop sodanige produk is beskikbaar vir aflaai (elke,
+         \'n “ aansoek ” of “-toepassing ”, en gesamentlik, “applications” of “ toepassings ”).
+        \n\n
+
+        1. BESKRYWING VAN AANSOEK. Coronastats aangebied vir aflaai gratis, sekere van sy
+        toepassings wat jy in staat stel om te bekyk en ontleed coronavirus statistiek van regoor
+        die wêreld.
+        \n\n
+        2. TOEKENNING VAN LISENSIE. Met dien verstande dat jy voldoen het, en dat jy voortgaan om te
+        voldoen aan, al die bepalings van hierdie ooreenkoms, coronastats hiermee toelaes aan \’n
+        beperkte en nie-eksklusiewe reg om te installeer, loop, toegang en gebruik die toepassing in
+        objek kode vorm slegs vir die doeleindes beskryf in hierdie ooreenkoms of andersins as dalk
+        structed of beskryf deur coronastats op skrif te stel.
+        \n\n
+        3. RESERVERING VAN REGTE EN EIENAARSKAP; DERDE PARTY INHOUD. Coronastats behou alle regte met
+        betrekking tot die toepassing wat nie uitdruklik toegestaan aan u in hierdie ooreenkoms.
+        Die aansoek word beskerm deur kopiereg en ander intellektuele eiendom wette en verdrae.
+        As tussen Coronastats en jy, coronastats besit alle titel in en om die aansoek, insluitend
+        sonder beperking alle kopiereg en ander intellektuele eiendomsreg in die aansoek.
+        Jy stem nie verwyder nie, verberg of andersins wysig enige kopiereg, handelsmerk of ander
+        Proprietary kennisgewing of bron identifiseerder vervat in of wat verband hou met die aansoek.
+        Ons kan nie en nie waarborg toegang tot inligting of ander inhoud wat aan enige derde party
+        wat toeganklik is deur jou deur die aansoek, of die webwerf waaruit die toepassing afgelaai
+        word, of andersins.
+
+        \n\n
+        4. GEBRUIK BEPERKINGS. Jy stem saam dat jy sal nie, en dat jy sal nie toelaat dat enige
+        ander persoon, direk of indirek, aan:\n (a) verkoop, herverkoop, oordrag, wys, versprei,
+        kopieer, publiseer, versend, versprei, skep afgeleide kunswerke of andersins versprei,
+        benut of enige gedeelte of al die aansoek beskikbaar maak, \n(b) afkyk, opdeel, wysig,
+        vertaal of uitmekaar haal enige gedeelte of al die aansoek sonder beperking enige van sy
+        onderliggende idees, insluitend algoritmes of struktuur, of gebruik enige gedeelte van of
+        al die aansoek om nuwe aansoeke, programme, produkte of dienste, \n( c) verwyder of andersins
+        wysig enige handelsmerke, diens, grafika, ontwerpe, logo name, p kopskrifte, knoppie ikone,
+        skripte, kommersiële merke, en handel trek deur die aansoek verskyn (insluitend sonder
+        beperking die handelsmerk “coronastats”) of enige ander handelsmerk (soos hierna gedefinieer)
+        wat daarop dui dat \'n bron van goedere of dienste is die eiendom vanHul onderskeie eienaars,
+        of \n(d) wys die naam, logo, handelsmerk of ander identifiseerder van enige individu of entiteit
+        (behalwe vir coronastats) in so \'n wyse gee die kyker die indruk dat sodanige ander individuele
+        of entiteit is \'n uitgewer of verspreider van die aansoek.
+        \n\n
+        5. GEEN ANDER GEBRUIK. Die aansoek is bedoel uitsluitlik vir jou persoonlike gebruik soos
+        beskryf in hierdie ooreenkoms of andersins as opdrag gegee kan word of beskryf deur
+        coronastats op skrif te stel. Jy mag nie verkoop, verhuur, beheer fooie vir toegang tot of
+        enige gebruik van, die aansoek.
+        \n\n
+       6. BEËINDIGING. As jy versuim om te voldoen aan enige van die bepalings van hierdie ooreenkoms,
+       jy kan nie meer die aansoek gebruik en jy sal permanent skrap alle afskrifte van die aansoek
+       van jou toestel of wat anders word dan in jou besit.
+
+        \n\n
+       7. PESBESTRYDING VAN GARANSIES. JOU GEBRUIK VAN DIE AANSOEK IS BY JOU EIE RISIKO. DIE AANSOEK
+       WORD VERSKAF “ AS ” IS, “ AS BESKIKBAAR ” EN MET ALLE FOUTE, EN CORONASTATS HIERMEE DISCLAIMS
+       ALLE WAARBORGE, VERTOË EN VOORWAARDES, OF EXPRESS, GEÏMPLISEERDE OF STATUTÊRE, INSLUITEND, MAAR
+       NIE BEPERK NIE TOT ENIGE UITDRUKLIKE WAARBORGE, PLIGTE OF VOORWAARDES VAN VERKOOPBAARHEID,
+       NIESKENDING, FIKSHEID VIR \'n SPESIFIEKE DOEL, BETROUBAARHEID OF BESKIKBAARHEID, AKKURAATHEID
+       OF VOLLEDIGHEID, KWALITEIT, VEILIGHEID, GESKIKTHEID, WORKMANLIKE POGING, GEBREK AAN VIRUSSE,
+       GEBREK AAN NALATIGHEID, OF DAT DIE AANSOEK SAL VERRIG IN ENIGE SPESIFIEKE MODE OF PRODUSEER
+       ENIGE SPESIFIEKE RESULTAAT, OF ANDERSINS WAT VOORTSPRUIT UIT OF WAT VERBAND HOU MET DIE GEBRUIK
+       VAN DIE AANSOEK DEUR JOU OF ENIGE ANDER PERSOON. CORONASTATS IS OOK NIE VERANTWOORDELIK VIR
+       DIE VOORSIENING VAN ENIGE ONDERSTEUNING OF ENIGE ANDER DIENSTE, OF DIE VERSUIM OM DIT TE
+       ONDERSTEUN OF ENIGE ANDER DIENSTE VERSKAF, IN VERBAND MET OF MET BETREKKING TOT DIE AANSOEK.
+       DAAR IS INHERENTE RISIKO IN DIEAFLAAI EN GEBRUIK VAN ENIGE SAGTEWARE, EN CORONASTATS WAARSKU
+       JY OM SEKER TE MAAK DAT JY HEELTEMAL VERSTAAN DIE POTENSIËLE RISIKO VOOR AFLAAI, INSTALLEER
+       OF ANDERSINS MET DIE AANSOEK. NÓG CORONAS TATS OF ENIGE OUER, FILIAAL OF GEAFFILIEERDE ENTITEIT
+        VAN CORONASTATS, OF ENIGE VAN HUL SKOOLHOOFDE, AANDEELHOUERS, DIREKTEURE, BEAMPTES, LEDE,
+        BESTUURDERS, LISENSIEGEWERS, VERSKAFFERS, WERKNEMERS, KONTRAKTEURS, AGENTE OF VERTEENWOORDIGERS
+         (GESAMENTLIK, DIE “ CORONASTATS PARTYE ”) IS AANSPREEKLIK VIR ENIGE SKADE WAT JY OF ENIGE
+         DERDE PARTY MAG LY IN VERBAND MET OF WAT VERBAND HOU MET JOU AFLAAI, INSTALLERING,
+         DEÏNSTALLEER, MODIFISEER OF ANDERSINS MET DIE AANSOEK.
+        \n\n
+        8. BEPERKING VAN AANSPREEKLIKHEID. TOT DIE MAKSIMUM OMVANG DEUR TOEPASLIKE WETGEWING
+        TOEGELAAT, IN GEEN GEVAL SAL CORONASTATS OF ENIGE VAN DIE ANDER CORONASTATS PARTYE
+        AANSPREEKLIK WEES VIR ENIGE SPESIALE, TOEVALLIGE, INDIREKTE, GEVOLGLIKE OF STRAFBARE SKADE
+        HOEGENAAMD, (INSLUITEND SONDER BEPERKING VIR VERLORE WINSTE, SAKE OF KLANDISIEWAARDE, OF VIR
+        ENIGE VERWAGTE VERLORE WINS, BESIGHEID OF KLANDISIEWAARDE, VIR VERLIES VAN VERTROULIKE OF
+        ANDER INLIGTING, VIR BESIGHEID ONDERBREKING, VIR PERSOONLIKE BESERING, VIR VERLIES VAN
+        PRIVAATHEID, VIR VERSUIM OM ENIGE PLIG INSLUITEND DIÉ VAN GOEIE TROU OF VAN REDELIKE SORG,
+        VIR NALATIGHEID, EN VIR ENIGE ANDER GELDELIKE OF ANDER VERLIES HOEGENAAMD) WAT VOORTSPRUIT
+        UIT OF WAT VERBAND HOU MET JOU GEBRUIK VAN DIE AANSOEK (OF JOU ONVERMOË OM DIE AANSOEK TE
+        GEBRUIK) OF ANDERSINS IN VERBAND MET HIERDIE OOREENKOMS. DIE VOORGAANDE IS VAN TOEPASSING
+        OF SODANIGE AANSPREEKLIKHEID VOORTSPRUIT UIT ENIGE EIS GEBASEER OP KONTRAK, WAARBORG, DELIKTE
+        (INSLUITEND SONDER BEPERKING NALATIGHEID), PRODUK, STRENG AANSPREEKLIKHEID, SKULD, SKENDING
+        VAN AANSPREEKLIKHEIDWAARBORG, SKENDING VAN KONTRAK OF ANDERSINS, SELFS AS CORONASTATS OF ENIGE
+        VAN DIE ANDER RUSTYBRICK PARTYE IS AANGERAAI VAN DIE MOONTLIKHEID VAN SODANIGE SKADE. ONDANKS
+        ENIGE SKADE WAT JY KAN AANGAAN OM ENIGE REDE HOEGENAAMD MET BETREKKING TOT DIE AANSOEK
+        (INSLUITEND, SONDER BEPERKING, ENIGE VAN DIE SKADE WAARNA HIERIN), DIE HELE AANSPREEKLIKHEID
+        VAN DIE CORONASTATS PARTYE GESAMENTLIK, EN JOU EKSKLUSIEWE REMEDY HIERONDER, SAL BEPERK WORD
+        TOT EEN DUISEND DOLLAR ($1000) INDIEN JY BETAAL CORONASTATS VIR DIE GEBRUIK VAN DIE TOEPASSING,
+        OF EEN HONDERD DOLLAR ($100) AS JY DIE PROGRAM GRATIS. HIERDIE BEPERKING VAN AANSPREEKLIKHEID
+        VOORSIENING IS BEDOEL OM AANSOEK TE DOEN SONDER INAGNEMING OF ANDER BEPALINGS VAN HIERDIE
+        OOREENKOMS HET BEWYS ONDOELTREFFEND.
+        \n\n
+        9. VRYWARING. Jy moet vrywaar, verdedig en hou coronastats en elkeen van die ander coronastats
+        partye skadeloos van en teen enige en al bedreig of werklike eise, aksies, pas en eise en
+        enige en alle gevolglike verliese, laste, skade, uitgawes en koste, insluitend sonder
+        beperking redelike attorneys’ fooie en disbursements, wat ontstaan in verband met of wat
+        verband hou met \n(a) jou oortreding van hierdie ooreenkoms, insluitend sonder beperking
+        jou gebruik van die aansoek op enige wyse nie uitdruklik toegelaat hierna, of \n(b) jou
+        nalatigheid of wangedrag, of \n( c) jou oortreding van enige Wet of regulasie.
+        \n\n
+       10. PRIVAATHEID. Coronastats bekyk die beskerming van jou privaatheid as \'n belangrike
+       verantwoordelikheid. Die terme rakende die hantering van persoonlike identifiseerbare
+       inligting en ander inligting wat deur u in verband met die toepassing is beskryf in die
+       coronastats-toepassing privaatheidbeleid (die “ privaatheidbeleid ”) geleë in die
+       instellingskerm. Deur die gebruik van die toepassing, jy toestemming tot die versameling en
+       gebruik deur ons van jou pii sowel as alle ander inligting soos beskryf in die
+       privaatheidbeleid.
+        \n\n
+        11 ENIGE BEHERENDE WET; ARBITRASIE; GEEN KLAS; TYDIGE INDIENING VAN EISE. Eise hierdie
+        ooreenkoms moet beheer word en uitgelê in ooreenstemming met die KOPIEREGHOUERS EN NABURIGE
+        REGTE BESKERMING ACT NO.6, VAN 1994. Die Wet op state: Om voorsiening te maak vir die
+        beskerming van kopiereg en performers’ regte, en om voorsiening te maak vir die matter’s wat
+        daarmee verband hou. Enige dispuut wat voortspruit uit of met betrekking tot jou gebruik van
+        die aansoek of andersins met betrekking tot hierdie ooreenkoms, insluitend sonder beperking
+        ten opsigte van enige oortreding hieronder, moet aan “judicial proceedings” gebring word.
+        Dit beteken verrigtinge voor die hof, Tribunaal of persoon wat deur die Wet krag om te hoor,
+        ontvang en ondersoek bewyse op eed of plegtige verklaring. Jy moet betaal vir jou eie regskoste
+        en uitgawes wat betrokke is in enige sodanige arbitrasie, insluitend sonder beperking redelike
+        attorneys’ gelde, en ons moet betaal vir al ons sodanige koste en uitgawes tensy die
+        aangeleentheid arbitrated behels jou oortreding van enige van die bepalings van hierdieOoreenkoms,
+         in welke geval jy moet betaal beide vir jou sowel as vir ons regsonkoste en uitgawes insluitend
+         sonder beperking redelike attorneys’ gelde aangegaan deur ons in die voortsetting van sodanige
+         \'n eis. GEEN ARBITRASIE OF EIS KRAGTENS HIERDIE OOREENKOMS MOET VERBIND WORD AAN ENIGE ANDER
+         ARBITRASIE OF EIS, EN GEEN KLAS ARBITRASIEPROSES SAL TOEGELAAT WORD. \n
+
+        JY STEM SAAM DAT ONGEAG ENIGE STATUUT OF WET TOT DIE TEENDEEL, ENIGE EIS, GROEP OF AKSIE WAT
+        JY KAN TEEN ENIGE VAN DIE COVIDSTATS PARTYE VOORTSPRUITEND ONDER OF WAT VERBAND HOU MET
+        HIERDIE OOREENKOMS MOET JY OOREENKOMSTIG HIERDIE ARTIKEL GEBRING WORD DEUR EN BINNE EEN (1)
+        JAAR NA DIE DATUM WAAROP DIE GEBEURTENIS PLAASGEVIND HET OF BEWEERDE ONDERLIGGENDE SODANIGE
+        EIS IS HET VOORGEKOM.
+
+        \n\n
+        12. DIVERSE. Hierdie ooreenkoms en enige skriftelike instruksies wat verband hou met die
+        toepassing wat verskaf deur coronastats maak die hele ooreenkoms tussen jou en coronastats
+        wat met die aansoek, en hulle supersede al voor of mondelinge of skriftelike kommunikasie,
+        voorstelle en vertoë contemporaneous met betrekking tot die aansoek of enige ander onderwerp
+        deur hierdie ooreenkoms gedek. Tot die mate die bepalings van enige coronastats beleid of
+        programme teenstrydig is met die bepalings van hierdie ooreenkoms, die bepalings van hierdie
+        ooreenkoms moet beheer. Indien enige bepaling van hierdie ooreenkoms is gehou te word,
+        ongeldig, afdwingbaar of onwettige, kolkmetode sodanige bepaling moet aangepas word deur die
+        arbiter aan die meeste goed lyk soos die bedoeling van coronastats en alle ander bepalings
+        van hierdie ooreenkoms sal voortgaan ten volle krag en effek. Die mislukking van coronastats
+        te enige tyd vereis deur jou prestasie van enige bepaling van hierdie ooreenkoms moet op
+        geen manier beïnvloed coronastats’ reg om sodanige bepalings afdwingOf moet die afstanddoening
+        deur coronastats van enige oortreding van enige bepaling van hierdie ooreenkoms geneem word
+        of gehou om \'n afstanddoening van enige verdere verbreking van dieselfde bepaling.
+
+
+
+
+
+
+
+    ]]></string>
+
+    <string name="take_vit">Neem jou Vitamiene</string>
+    <string name="rest_sleep">Rus en Slaap</string>
+    <string name="keep_warm">Hou Warm</string>
+    <string name="drink_liquids">Drink baie vloeistowwe</string>
+    <string name="take_hot">Neem warm stort van \'n styg keel en hoes te verlig</string>
+
+    <string name="hand_wash">Was jou hande dikwels</string>
+    <string name="wear_mask">Dra \'n gesigsmasker</string>
+    <string name="avoid_sick">Vermy kontak met siek mense</string>
+    <string name="cover_your">Bedek jou hoes of nies</string>
+    <string name="avoid_fly">Vermy vlieg om gebiede met COVID19 geraak</string>
+    <string name="keep_distance">Hou \' n afstand van 1 meter tussen jou en anders</string>
+    <string name="sanitizer">Gebruik saneenniddels risiko van infeksie te verminder</string>
+    <string name="wet_wipe">Skoon oppervlakke en voorwerpe gereeld</string>
+    <string name="staircase">weesbladsy</string>
+    <string name="elevator">Hysbak knoppies</string>
+    <string name="gadgets">Dingessies</string>
+    <string name="contaminated">Besmekte kos</string>
+    <string name="money">Geld</string>
+    <string name="public_transport">Openbare vervoer</string>
+
+    <string name="high_fever">HOË KOORS</string>
+    <string name="sore_throat">SEER KEEL</string>
+    <string name="dry_cough">DROË HOES</string>
+    <string name="tiredness">MOEGHEID</string>
+    <string name="difficulty_breath">PROBLEME ASEMHALING</string>
+
+    <string name="temper">Temperature bo 37 ° c</string>
+    <string name="irritation_throat">Irritasie in die keel</string>
+    <string name="a_dry_coug">\' n droë hoes</string>
+    <string name="feeling_tired">Voortdurend moeg</string>
+    <string name="difficulty_brea">Moeilike asemhaling of kortasem</string>
+
+
+    <string name="protect_yourself">Hoe om jouself te beskerm en anders</string>
+    <string name="help_translate">Help vertaal CoronaStats in jou taal!</string>
+    <string name="total_cases">Totale Gevalle</string>
+    <string name="new_cases">Nuwe Gevalle</string>
+    <string name="new_deaths">Nuwe Sterftes</string>
+    <string name="total_critical">Totale Kritiese</string>
+    <string name="useful_links">Nuttige Skakels</string>
+    <string name="coronastats_on_twitter">CoronaStats op Twitter</string>
+    <string name="coronastats_on_facebook">CoronaStats op Facebook</string>
+    <string name="center_for_disease_ncontrol_and_prevention">Center for Disease\nControl and Prevention</string>
+    <string name="device_info">Toestel inligting</string>
+    <string name="textview">TextView</string>
+    <string name="how_does_the_virus_spreads">Hoe versprei die virus?</string>
+
+
+    <string name="coronavirus_disease">2019 Coronavirus Siekte (COVID-19)</string>
+    <string name="coronaviruses_cov_are">Coronaviruses (CoV) is \'n groot gesin van virusse wat siekte veroorsaak wat wissel van die gewone verkoue tot meer ernstige siektes soos Midde-Ooste respiratoriese sindroom (MERS-cov) en ernstige akute respiratoriese sindroom (SARS-cov).\' n roman coronavirus (ncov) is \'n nuwe stam wat voorheen identiﬁed in die mens is nie.</string>
+    <string name="visit_http" translatable="false">Visit https://coronastats.oneskyapp.com/</string>
+</resources>

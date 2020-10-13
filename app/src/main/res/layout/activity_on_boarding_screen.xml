@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    tools:context=".Common.OnBoardingScreen">
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/slider"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toTopOf="@+id/relativeLayout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+    </androidx.viewpager.widget.ViewPager>
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+        
+        <Button
+            android:id="@+id/letsGo_Btn"
+            android:layout_width="300dp"
+            android:layout_centerHorizontal="true"
+            android:fontFamily="@font/quicksand"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="18sp"
+            android:layout_height="wrap_content"
+            android:visibility="invisible"
+            android:text="@string/lets_go"
+            android:background="@drawable/white_rounded_btn"/>
+
+        <LinearLayout
+            android:id="@+id/dots"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:paddingBottom="20dp"
+            android:layout_margin="20dp"
+            android:orientation="horizontal"
+            android:layout_centerHorizontal="true"/>
+
+            <Button
+                android:id="@+id/next_Btn"
+                android:onClick="next"
+                android:textColor="@color/colorPrimary"
+                android:fontFamily="@font/quicksand"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentEnd="true"
+                android:background="@color/transparent"
+                android:text="@string/nxt_btn"/>
+
+        <Button
+            android:id="@+id/skip_Btn"
+            android:onClick="skip"
+            android:textColor="@color/dark_grey"
+            android:fontFamily="@font/quicksand"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentStart="true"
+            android:textStyle="bold"
+            android:background="@color/transparent"
+            android:text="@string/skip"/>
+
+
+
+
+    </RelativeLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

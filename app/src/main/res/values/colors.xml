@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/totalActive</color>
+    <color name="colorPrimaryDark">@color/totalActive</color>
+    <color name="colorAccent">#3E424C</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grey">#C5C5C5</color>
+    <color name="notSoWhite">#F7F7FB</color>
+    <color name="twitter_color">#2DAAE1</color>
+    <color name="black">#000000</color>
+    <color name="light_black">#2D3038</color>
+    <color name="transparent">#00000000</color>
+    <color name="background">#F8F8FF</color>
+    <color name="dark_grey">#707070</color>
+
+
+    <!-- Corona Color -->
+    <color name="totalDeaths">#e60000</color>
+    <color name="totalConfirmed">#212529</color>
+    <color name="totalRecoveries">#28a745</color>
+    <color name="totalActive">#17a2b8</color>
+</resources>

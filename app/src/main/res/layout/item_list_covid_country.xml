@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/white"
+    android:paddingLeft="16dp"
+    android:padding="15dp"
+    android:paddingTop="8dp">
+    
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            tools:src="@drawable/ic_na"
+            android:id="@+id/imgCountryFlag"
+            android:layout_gravity="center_vertical"
+            android:layout_width="48dp"
+            android:layout_height="32dp"/>
+<!-- lets see
+    <TextView
+        android:layout_marginLeft="8dp"
+        android:layout_gravity="center_vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvTotalCases"
+        android:textColor="@color/linkedIn_color"
+        tools:text="854"
+        style="@style/LabelFontStyle"
+        android:textSize="20sp"/>
+        -->
+
+    <TextView
+        android:layout_gravity="center_vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvCountryName"
+        android:textColor="@color/light_black"
+        tools:text="China"
+        android:layout_marginStart="25dp"
+        style="@style/LabelFontStyle"
+        android:textSize="20sp"/>
+    </LinearLayout>
+
+</RelativeLayout>

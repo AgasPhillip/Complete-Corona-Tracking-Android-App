@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="OneSkyComponent">
+    <option name="apiKey" value="cjhw3pG7QLqtWydBowzGtnYo59bb6oi8" />
+    <option name="apiSecret" value="bf6buUhjdAftNkhTP0s7r7Ys4RkXf7mg" />
+    <option name="projectId" value="369087" />
+    <option name="moduleName" value="CoronaTracker" />
+    <option name="baseLanguage" value="en-US" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,556 @@
+<resources>
+    <string name="app_name">CoronaStats</string>
+    <string name="logoutConfirm">Are you sure you want to exit?</string>
+    <string name="authenticating" translatable="false">Authenticating . . . .</string>
+    <string name="translationLink" translatable="false">https://coronastats.oneskyapp.com/</string>
+    <string name="noEmailClient">No email clients installed on device</string>
+    <string name="sendEmailWith">Send email with..</string>
+    <string name="iloveThisApp">I Love this App</string>
+    <string name="thanks">Thanks for this App, it is So useful!</string>
+    <string name="help_fragment">Help</string>
+    <string name="about_fragment">About</string>
+
+
+    <!--BoardingScreen-->
+    <string name="first_slide">Social Distancing</string>
+    <string name="second_slide">Wash Your Hands Often</string>
+    <string name="third_slide">Wear a Face Mask</string>
+    <string name="fourth_slide">Stay At Home</string>
+
+
+    <!-- Description -->
+    <string name="first_slide_desc">Keep your distance from others to protect them from getting sick too.</string>
+    <string name="second_slide_desc">Wash your hands with soap and water, scrub your hands for at least 30 seconds.</string>
+    <string name="third_slide_desc"> Consider wearing a face mask when you are sick with a cough or sneezing</string>
+    <string name="forth_slide_desc">Staying at home will help control the spread of the virus to friends, the wider community.</string>
+
+    <!-- Buttons -->
+    <string name="skip">Skip</string>
+    <string name="nxt_btn">Next</string>
+    <string name="lets_go">Let\'s Go</string>
+
+
+    <!-- ________________________________________________Privacy policy_________________________ -->
+
+
+    <string name="privacy_description">
+        Privacy Notice Corona-Stats\nThis privacy notice is to make it easier
+        for members of the public to understand how Corona Stats may process your personal information
+        during the unprecedented challenges we are all facing during the Coronavirus pandemic (COVID-19).
+        \n\n
+        A.   Privacy policy\n
+        corona Stats is operated by a millennial. He is committed
+        to protecting the privacy and security of your personal information (‘personal data’). This
+        policy (together with our terms of use) describes how we collect and use your personal data
+        during your use of this App, in accordance with the General Data Protection Regulation (GDPR)
+        and Associated Data Protection Legislation.
+        \n\n
+        B.  Processing activity
+        \n
+        In order for us to assist the community during this time, it is
+        necessary for us to collect, hold and process personal information about you. The information
+        collected and held will vary and will depend on the reason for processing. We will process
+        personal information to:\n
+    \n\u25CF Monitoring Covid-19 based on user usage and social care bodies and the Government
+        including providing information to the public about Covid-19 and its effectiveness and
+        information about capacity, medicines, equipment, supplies, services and the workforce
+        within the health services and adult social care services.\n
+    \n\u25CF Delivering services to patients, clinicians, the health services and adult social care
+        services workforce and the public about and in connection with Covid-19, including the
+        provision of information, fit notes and the provision of health care and adult social care
+        services.\n
+    \n\u25CF Research and planning in relation to Covid-19.\n
+
+     Information requirements
+     In regard to our processing activity, the below personal data may be processed:\n\u25CF Name \n\u25CF Email Address
+        \n\n
+        C.   Types of data we collect about you
+        \n
+        The data collected by CoronaStats App, is store, and use the following
+        categories of data when you make use of this App: Device information such as android version and OS build. The app does not keep
+        track of geographical location or any sort of GPS settings. Data you input into the app solely depends
+        on you. sharing you data with the developer solely depends on you. The App will not restrict you from using
+        it\'s services and resources.
+        \n\n
+        D.   Glossary
+        \n
+        Where we refer in this policy to your ‘personal data’, we mean any
+        recorded information that is about you and from which you can be identified. It does not
+        include data where your identity has been removed (anonymous data).
+
+    Where we refer to the ‘processing’ of your personal data, we mean anything that we do with that
+        information, including collection, use, storage, disclosure or retention.
+        \n\n
+        E.   When we Collect your data
+        \n
+        We will collect the vast majority of data about you when
+        you give feedback about our App, e-mail or other social media functions on our App, when you
+        contact the team for a problem or suggestion with our App, take careful consideration when
+        sending this email and keep it formal.
+        \n\n
+        F.	Sharing your data with third parties
+        \n
+        You may share your data (Screenshots) with third parties who
+        provide services sharing capabilities, the app does not keep track of this in or otherwise
+        monitor this kind of actions.
+        \n\n
+        G.	Where we store your data
+        \n
+        We may store data collected within the app or electronically.
+        The data is stored on our secure servers and/or in our premises within Namibia.
+        \n\n
+        H.	Retaining your data
+        \n
+        We will only retain your data for as long as we need it to
+        fulfil our purposes, including any relating to legal, accounting, or reporting requirements.
+        \n\n
+        I.	Your rights
+        \n
+        Under certain circumstances, by law you have the right to:
+    \n\u25CF Request access to your data (commonly known as a "subject access request"). This enables
+    you to receive a copy of your data and to check that we are lawfully processing it
+    \n\u25CF Request correction of your data. This enables you to ask us to correct any incomplete
+    or inaccurate information we hold about you.
+    \n\u25CF Request erasure of your data. This enables you to ask us to delete or remove your data
+    where there is no good reason for us continuing to process it. You also have the right to ask us
+        to delete or remove your data where you have exercised your right to object to processing (see below).
+    \n\u25CF Object to processing of your data where we are relying on our legitimate interests
+        [or those of a third party] and there is something about your particular situation which
+        makes you want to object to processing on this ground.
+    \n\u25CF Request the restriction of processing of your data. This enables you to ask us to suspend
+        the processing of your data, for example if you want us to establish its accuracy or the reason for processing it.
+    \n\u25CF Request the transfer of your data to another party.
+        \n
+
+    Depending on the circumstances and the nature of your request it may not be possible for us to
+        do what you have asked, for example, where there is a statutory or contractual requirement
+        for us to process your data and it would not be possible to fulfil our legal obligations if
+        we were to stop.  However, where you have consented to the processing you can withdraw your
+        consent at any time by emailing us at: email@address.com In this event, we will stop the
+        processing as soon as we can.  However, this will not affect the lawfulness of any processing
+        carried out before your withdrawal of consent and you may no longer be able to use the site
+        in the same way as you did before.
+
+    If you want to exercise any of the rights described above or are dissatisfied with the way we
+        have used your information, you should contact the App developer. We will seek to deal with
+        your request without undue delay, and in any event in accordance with the requirements of
+        the GDPR. Please note that we may keep a record of your communications to help us resolve
+        any issues which you raise.
+        \n\n
+        J.	Change to this policy
+        \n
+        Any changes we may make to our privacy policy in the future
+        will be posted on this page.  Please check back frequently to see any updates or changes to
+        our privacy policy.
+        \n\n
+
+
+
+    </string>
+
+
+    <!-- ________________________________________________Privacy policy End Here_________________________ -->
+
+
+    //General Country details
+
+    <string name="total_deaths">Total Deaths</string>
+    <string name="total_recovered">Total Recovered</string>
+    <string name="total_active">Total Active</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="write_about_high_temperature">Write about high temperature</string>
+    <string name="worldwide_cases">Coronavirus Pandemic</string>
+    <string name="prevention">Prevention</string>
+    <string name="treatment">Treatment</string>
+    <string name="treatment_desc">There is no specific medicine to prevent or treat coronavirus disease (COVID-19). People may need supportive care to help them breathe.</string>
+    <string name="self_care">Self Care</string>
+    <string name="self_care_desc">If you have mild symptoms, stay at home until you have recovered. You can relieve your symptoms if you:</string>
+    <string name="helpline_number">HelpLine Number</string>
+    <string name="help_line">If you start showing symptoms, DO NOT go to a hospital, rather seek for help on the free hotline.</string>
+    <string name="logout">Exit</string>
+    <string name="app_info">App info</string>
+    <string name="connect_with_me">Want to know more?</string>
+    <string name="socials">Connect</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="question_need_help">Question?  Want to improve this App?</string>
+    <string name="contact_owner">Feedback</string>
+    <string name="_2020_2020_coronatracker">Copyright 2020 © CoronaStats</string>
+    <string name="legal_info">Legal info</string>
+    <string name="world_o_meters">World O meters</string>
+    <string name="world_health_organisation">World Health Organisation</string>
+    <string name="licence">
+        —OPEN SOURCE LICENCE—
+        \n
+        \n
+        - icons8
+        \n\n
+        login, password, user etc.. icon from icons8 \nhttps://icons8.com
+        \n\n
+        Licenced under Creative Commons Attribution-NoDerivs 3.0 Uproted
+        \n\n
+        https://creativecommons.org/licenses/by-nd/3.0/ ©Icons8 LLC
+        \n\n
+
+        <!-- _______________________________________________________________________________ -->
+        - Freepik
+        \n\n
+        Coronavirus dark logo icon
+        The full terms of the license are described in section 7 of the Freepik
+        terms of use \n\n(http://www.freepik.com)
+        \n\n
+        Copyright © 2010 Freepik Company S.L. All rights reserved.
+        <!-- _______________________________________________________________________________ -->
+        \n
+        \n
+        - BottomNavigationViewEx
+        \n
+        \n
+        Copyright © 2016 The BottomNavigationViewEx Project Authors (https://github.com/ittianyu/BottomNavigationViewEx)
+        \n
+        \n
+        Licenced under MIT
+        \n
+        \n
+        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
+        BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND AND
+        NONINFINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDER BE LABEL FOR ANY CLAIM, DAMAGE
+        OR OTHER LIABILITY, WHETHER IN AN ACTION OR OTHERWISE, ARISING FROM OUT OF OR IN CONNECTION WITH THE SOFTWARE
+        OR USE OR OTHER DEALINGS  IN THE SOFTWARE.
+        \n\n\
+
+        <!-- _______________________________________________________________________________ -->
+        <![CDATA[
+
+        - Quicksand Font & Iconsolata Font
+        \n\n
+        Copyright 2011 The Quicksand Project Authors (https://github.com/andrew-paglinawan/QuicksandFamily), with Reserved Font Name
+        "Quicksand".
+
+        \n\n
+        This Font Software is licenced under the SIL Open Font License, Version 1.1.\n
+        This license is copied below, and is also available with a FAQ at:
+        http://script.sil.org/OFL
+        \n\n
+
+        --------------------------------------------------------------------------------------------
+        \n
+    Mobile Device Application End User License Agreement Version 1.1 - 27  August 2020
+        \n
+
+        --------------------------------------------------------------------------------------------
+        \n\n
+        IMPORTANT – PLEASE READ CAREFULLY:
+        \n\n
+        This End-User License Agreement (this "Agreement") is a legal agreement between CoronaStats,
+        a mobile application owned and designed by Agas Phillipus  (“CoronaStats”, “we”, “us”, or “our”)
+        and you, a user (“you” or “your”) of one of our mobile application products, as further
+        described below on which such product is available for download (each, an “Application” or
+        “App”, and collectively, “Applications” or “Apps”).
+        \n\n
+
+        1. DESCRIPTION OF APPLICATION.  CoronaStats offered for download free of charge, certain of
+        its Apps which enable you to view and analyze coronavirus statistics from across the globe.
+        \n\n
+        2. GRANT OF LICENSE. Provided that you have complied with, and that you continue to comply \
+        with, all of the provisions of this Agreement, Corona Stats hereby grants to you a limited
+        and non-exclusive right to install, run, access and use the Application in object code form
+        only for the purposes described in this Agreement or otherwise as may be instructed or
+        described by CoronaStats in writing.
+        \n\n
+        3. RESERVATION OF RIGHTS AND OWNERSHIP; THIRD PARTY CONTENT. CoronaStats reserves all rights
+        related to the App which are not expressly granted to you in this Agreement. The Application
+        is protected by copyright and other intellectual property laws and treaties. As between
+        CoronaStats and you, CoronaStats owns all title in and to the Application, including without
+        limitation all copyright and other intellectual property rights in the Application.
+        You agree not to remove, conceal or otherwise modify any copyright, trademark or other
+        proprietary notice or source identifier contained in or associated with the Application.
+        We cannot and do not guarantee access to information or other content belonging to any third
+        party which is accessible by you through the Application, or the website from which the
+        App is being downloaded, or otherwise.
+        \n\n
+        4. USAGE RESTRICTIONS. You agree that you shall not, and that you shall not permit any other
+        person, directly or indirectly, to: \n(a) sell, resell, transfer, assign, distribute, copy,
+        publish, transmit, distribute, create derivative works of or otherwise disseminate, exploit
+        or make available any portion or all of the Application, \n(b) reverse engineer, decompile,
+        modify, translate or disassemble any portion or all of the Application including without
+        limitation any of its underlying ideas, algorithms or structure, or use any portion of or
+        all of the Application to create new applications, programs, products or services, \n( c )
+        remove or otherwise modify any trademarks, service names, graphics, designs, logos, page
+        headers, button icons, scripts, commercial markings, and trade dress appearing through the
+        Application (including without limitation the trademark “CORONASTATS”) or any other Trademark
+        (as hereinafter defined) which indicates that a source of goods or services are the property
+        of their respective owners, or \n(d) display the name, logo, trademark or other identifier of
+        any individual or entity (except for CoronaStats) in such a manner as to give the viewer the
+        impression that such other individual or entity is a publisher or distributor of the Application.
+        \n\n
+        5. NO OTHER USE. The Application is intended solely for your personal use as described in
+        this Agreement or otherwise as may be instructed or described by CoronaStats in writing.
+        You may not sell, lease, charge fees for access to or any use of, the Application.
+        \n\n
+        6. TERMINATION.  If you fail to comply with any of the provisions of this Agreement, you may
+        no longer use the Application and you shall permanently delete all copies of the Application
+        from your device or which otherwise are then in your possession.
+
+        \n\n
+        7. DISCLAIMER OF WARRANTIES. YOUR USE OF THE APPLICATION IS AT YOUR OWN RISK.  THE APPLICATION
+        IS PROVIDED “AS IS”, “AS AVAILABLE” AND WITH ALL FAULTS, AND CORONASTATS HEREBY DISCLAIMS ALL
+        WARRANTIES, REPRESENTATIONS AND CONDITIONS, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING,
+        BUT NOT LIMITED TO ANY IMPLIED WARRANTIES, DUTIES OR CONDITIONS OF MERCHANTABILITY,
+        NON-INFRINGEMENT, FITNESS FOR A PARTICULAR PURPOSE, RELIABILITY OR AVAILABILITY, ACCURACY OR
+        COMPLETENESS, QUALITY, SAFETY, SUITABILITY, WORKMANLIKE EFFORT, LACK OF VIRUSES, LACK OF
+        NEGLIGENCE, OR THAT THE APPLICATION WILL PERFORM IN ANY PARTICULAR FASHION OR PRODUCE ANY
+        PARTICULAR RESULT, OR OTHERWISE ARISING OUT OF OR RELATED TO THE USE OF THE APPLICATION BY
+        YOU OR ANY OTHER PERSON.  CORONASTATS ALSO IS NOT RESPONSIBLE FOR THE PROVISION OF ANY
+        SUPPORT OR ANY OTHER SERVICES, OR THE FAILURE TO PROVIDE SUPPORT OR ANY OTHER SERVICES,
+        IN CONNECTION WITH OR RELATED TO THE APPLICATION.   THERE ARE INHERENT RISKS IN THE
+        DOWNLOADING AND USING OF ANY SOFTWARE, AND CORONASTATS CAUTIONS YOU TO MAKE SURE THAT YOU
+        COMPLETELY UNDERSTAND THE POTENTIAL RISKS BEFORE DOWNLOADING, INSTALLING OR OTHERWISE USING
+        THE APPLICATION. NEITHER CORONASTATS NOR ANY PARENT, SUBSIDIARY OR AFFILIATED ENTITY OF
+        CORONASTATS, NOR ANY OF THEIR PRINCIPALS, SHAREHOLDERS, DIRECTORS, OFFICERS, MEMBERS,
+        MANAGERS, LICENSORS, SUPPLIERS, EMPLOYEES, CONTRACTORS, AGENTS OR REPRESENTATIVES
+        (COLLECTIVELY, THE “CORONASTATS PARTIES”) SHALL BE LIABLE FOR ANY DAMAGES THAT YOU OR ANY
+        THIRD PARTY MAY SUFFER IN CONNECTION WITH OR RELATED TO YOUR DOWNLOADING, INSTALLING,
+        UNINSTALLING, MODIFYING OR OTHERWISE USING THE APPLICATION.
+        \n\n
+        8.  LIMITATION OF LIABILITY. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT
+        SHALL CORONASTATS OR ANY OF THE OTHER CORONASTATS PARTIES BE LIABLE FOR ANY SPECIAL,
+        INCIDENTAL, INDIRECT, CONSEQUENTIAL OR PUNITIVE DAMAGES WHATSOEVER, (INCLUDING WITHOUT
+        LIMITATION FOR LOST PROFITS, BUSINESS OR GOODWILL, OR FOR ANY ANTICIPATED LOST PROFITS,
+        BUSINESS OR GOODWILL, FOR LOSS OF CONFIDENTIAL OR OTHER INFORMATION, FOR BUSINESS
+        INTERRUPTION, FOR PERSONAL INJURY, FOR LOSS OF PRIVACY, FOR FAILURE TO MEET ANY DUTY
+        INCLUDING THAT OF GOOD FAITH OR OF REASONABLE CARE, FOR NEGLIGENCE, AND FOR ANY OTHER
+        MONETARY OR OTHER LOSS WHATSOEVER) ARISING OUT OF OR RELATED TO YOUR USE OF THE APPLICATION
+        (OR YOUR INABILITY TO USE THE APPLICATION) OR OTHERWISE IN CONNECTION WITH THIS AGREEMENT.
+        THE FOREGOING SHALL APPLY WHETHER SUCH LIABILITY ARISES FROM ANY CLAIM BASED UPON CONTRACT,
+        WARRANTY, TORT (INCLUDING WITHOUT LIMITATION NEGLIGENCE), PRODUCT LIABILITY, STRICT LIABILITY,
+        FAULT, BREACH OF WARRANTY, BREACH OF CONTRACT OR OTHERWISE, EVEN IF CORONASTATS OR ANY OF THE
+        OTHER RUSTYBRICK PARTIES HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  NOTWITHSTANDING
+        ANY DAMAGES THAT YOU MIGHT INCUR FOR ANY REASON WHATSOEVER INVOLVING THE APPLICATION
+        (INCLUDING, WITHOUT LIMITATION, ANY OF THE DAMAGES REFERENCED HEREIN), THE ENTIRE LIABILITY
+        OF THE CORONASTATS PARTIES COLLECTIVELY, AND YOUR EXCLUSIVE REMEDY HEREUNDER, SHALL BE LIMITED
+        TO ONE THOUSAND DOLLARS ($1,000) IF YOU ARE PAYING CORONASTATS FOR USE OF THE APP, OR ONE HUNDRED
+        DOLLARS ($100) IF YOU ARE USING THE APP FREE OF CHARGE. THIS LIMITATION OF LIABILITY PROVISION IS
+        INTENDED TO APPLY WITHOUT REGARD TO WHETHER OTHER PROVISIONS OF THIS AGREEMENT HAVE PROVEN
+        INEFFECTIVE.
+        \n\n
+        9.  INDEMNITY.  You shall indemnify, defend and hold CoronaStats and each of the other
+        CoronaStats Parties harmless from and against any and all threatened or actual claims,
+        actions, suits and demands and any and all resulting losses, liabilities, damages, expenses
+        and costs, including without limitation reasonable attorneys’ fees and disbursements, which
+        arise in connection with or which are related to \n(a) your breach of this Agreement, including
+        without limitation your use of the Application in any manner not expressly permitted hereunder, or
+        \n(b) your negligence or misconduct, or \n( c) your violation of any law or regulation.
+        \n\n
+        10.  PRIVACY.  CoronaStats views the protection of your privacy as an important responsibility.
+        The terms regulating the handling of personally identifiable information (“PII”) and other
+        information submitted by you in connection with the App is described in the CoronaStats
+        App privacy policy (the “Privacy Policy”) located in the settings screen.  By using the App,
+        you consent to the collection and use by us of your PII as well as all other information as
+        described in the Privacy Policy.
+        \n\n
+        11.  GOVERNING LAW; ARBITRATION; NO CLASS CLAIMS; TIMELY FILING OF CLAIMS.  This Agreement
+        shall be governed and construed in accordance with the COPYRIGHT AND NEIGHBOURING RIGHTS
+        PROTECTION Act No.6, of 1994. The act states: To provide for the protection of copyright and
+        performers’ rights, and to provide for the matter’s incidental thereto.  Any dispute arising
+        out of or relating to your use of the Application or otherwise related to this Agreement,
+        including without limitation regarding any breach hereunder, shall be brought forth to
+        “judicial proceedings”. This means proceedings before a court, tribunal or person having by
+        law power to hear, receive and examine evidence on oath or affirmation. You shall pay for
+        your own legal costs and expenses involved in any such arbitration, including without limitation
+        reasonable attorneys’ fees, and we shall pay for all of our such costs and expenses unless the
+        matter being arbitrated involves your breach of any of the provisions of this Agreement, in
+        which case you shall pay both for your as well as for our legal costs and expenses including
+        without limitation reasonable attorneys’ fees incurred by us in pursuing such a claim.  NO
+        ARBITRATION OR CLAIM UNDER THIS AGREEMENT SHALL BE JOINED TO ANY OTHER ARBITRATION OR CLAIM,
+        AND NO CLASS ARBITRATION PROCEEDINGS SHALL BE PERMITTED. YOU AGREE THAT REGARDLESS OF ANY
+        STATUTE OR LAW TO THE CONTRARY, ANY CLAIM, SUIT OR ACTION THAT YOU MAY HAVE AGAINST ANY OF
+        THE COVIDSTATS PARTIES ARISING UNDER OR RELATED TO THIS AGREEMENT MUST BE BROUGHT BY YOU
+        PURSUANT TO THIS SECTION AND WITHIN ONE (1) YEAR AFTER THE DATE ON WHICH THE EVENT UNDERLYING
+        SUCH CLAIM OCCURRED OR IS ALLEGED TO HAVE OCCURRED.
+        \n\n
+        12. MISCELLANEOUS. This Agreement and any written instructions related to the App which are
+        provided by CoronaStats constitute the entire agreement between you and CoronaStats relating
+        to the Application, and they supersede all prior or contemporaneous oral or written communications,
+        proposals and representations with respect to the Application or any other subject matter
+        covered by this Agreement. To the extent the terms of any CoronaStats policies or programs
+        conflict with the terms of this Agreement, the terms of this Agreement shall control. If any
+        provision of this Agreement is held to be void, invalid, unenforceable or illegal, such
+        provision shall be modified by the arbitrator to most closely resemble the intent of
+        CoronaStats and all other provisions of this Agreement shall continue in full force and effect.
+        The failure of CoronaStats at any time to require performance by you of any provision of this
+        Agreement shall in no way affect CoronaStats’ right to enforce such provisions, nor shall the
+        waiver by CoronaStats of any breach of any provision of this Agreement be taken or held to
+        be a waiver of any further breach of the same provision.
+
+
+
+
+
+
+
+    ]]></string>
+    <string name="take_vit">Take your Vitamins</string>
+    <string name="rest_sleep">Rest and sleep</string>
+    <string name="keep_warm">Keep Warm</string>
+    <string name="drink_liquids">Drink plenty of liquids</string>
+    <string name="take_hot">Take hot shower to ease of a soar throat and cough</string>
+
+    <string name="hand_wash">Wash your hands often</string>
+    <string name="wear_mask">Wear a face mask</string>
+    <string name="avoid_sick">Avoid contact with sick people</string>
+    <string name="cover_your">Cover your cough or sneeze</string>
+    <string name="avoid_fly">Avoid flying to areas affected with COVID19</string>
+    <string name="keep_distance">Keep a distance of 1 meter between you and others</string>
+    <string name="sanitizer">Use sanitizers to reduce risk of infection</string>
+    <string name="wet_wipe">Clean Surfaces and objects regularly</string>
+    <string name="staircase">Staircase</string>
+    <string name="elevator">Elevator buttons</string>
+    <string name="gadgets">Gadgets</string>
+    <string name="contaminated">Contaminated food</string>
+    <string name="money">Money</string>
+    <string name="public_transport">Public transport</string>
+
+
+    <string name="high_fever">HIGH FEVER</string>
+    <string name="sore_throat">SORE THROAT</string>
+    <string name="dry_cough">DRY COUGH</string>
+    <string name="tiredness">TIREDNESS</string>
+    <string name="difficulty_breath">DIFFICULTY BREATHING</string>
+
+    <string name="temper">Temperatures above 37°c</string>
+    <string name="irritation_throat">Irritation in the throat</string>
+    <string name="a_dry_coug">A dry cough</string>
+    <string name="feeling_tired">Constantly feeling tired</string>
+    <string name="difficulty_brea">difficulty breathing or Shortness of breath</string>
+
+
+    <string name="protect_yourself">How to Protect Yourself &amp; Others</string>
+    <string name="help_translate">Help translate CoronaStats into your language!</string>
+    <string name="total_cases">Total Cases</string>
+    <string name="new_cases">New Cases</string>
+    <string name="new_deaths">New Deaths</string>
+    <string name="total_critical">Total Critical</string>
+    <string name="cancel">Cancel</string>
+    <string name="useful_links">More on COVID19</string>
+    <string name="coronastats_on_twitter">CoronaStats on Twitter</string>
+    <string name="coronastats_on_facebook">CoronaStats on Facebook</string>
+    <string name="center_for_disease_ncontrol_and_prevention">Center for Disease\nControl and Prevention</string>
+    <string name="device_info">Device info</string>
+    <string name="textview">TextView</string>
+    <string name="how_does_the_virus_spreads">How does the virus spreads?</string>
+
+
+    <!-- These will be the helpLine Number Details for each country -->
+
+    <!-- _______________________ Angola Hot line Details ________________________ -->
+    <string name="ang_CountryCode" translatable="false">Ang</string>
+    <string name="ang_helpNumber" translatable="false">111</string>
+
+    <!-- _______________________ Botswana Hot line Details ________________________ -->
+    <string name="bot_CountryCode" translatable="false">bot</string>
+    <string name="bot_helpNumber" translatable="false">+267 3632273</string>
+    <string name="bot1_CountryCode" translatable="false">bot</string>
+    <string name="bot1_helpNumber" translatable="false">+267 3632756</string>
+    <string name="bot2_CountryCode" translatable="false">bot</string>
+    <string name="bot2_helpNumber" translatable="false">+267 3632757</string>
+    <string name="bot3_CountryCode" translatable="false">bot</string>
+    <string name="bot3_helpNumber" translatable="false">+267 3632206</string>
+
+    <!-- _______________________ Comoros Hot line Details ________________________ -->
+    <string name="com_CountryCode" translatable="false">Com</string>
+    <string name="com_helpNumber" translatable="false">+269 4693641</string>
+    <string name="com1_CountryCode" translatable="false">Com</string>
+    <string name="com2_CountryCode" translatable="false">Com</string>
+    <string name="com2_helpNumber" translatable="false">+269 4693642</string>
+    <string name="com3_CountryCode" translatable="false">Com</string>
+    <string name="com3_helpNumber" translatable="false">+269 4693644</string>
+
+    <!-- _______________________ drc Hot line Details ________________________ -->
+    <string name="drc_CountryCode" translatable="false">drc</string>
+    <string name="drc_helpNumber" translatable="false">+243 854463582</string>
+    <string name="drc1_CountryCode" translatable="false">drc</string>
+    <string name="drc1_helpNumber" translatable="false">+243 841363267</string>
+
+    <!-- _______________________ Eswatini Hot line Details ________________________ -->
+    <string name="esw_CountryCode" translatable="false">esw</string>
+    <string name="esw_helpNumber" translatable="false">977</string>
+
+    <!-- _______________________ Lesotho Hot line Details ________________________ -->
+    <string name="les_CountryCode" translatable="false">les</string>
+    <string name="les_helpNumber" translatable="false">+266 58862893</string>
+
+    <!-- _______________________ Madagascar Hot line Details ________________________ -->
+    <string name="mad_CountryCode" translatable="false">Mad</string>
+    <string name="mad_helpNumber" translatable="false">910</string>
+
+    <!-- _______________________ Malawi Hot line Details ________________________ -->
+    <string name="mal_CountryCode" translatable="false">Mal</string>
+    <string name="mal_helpNumber" translatable="false">+265 887371288</string>
+
+
+    <!-- _______________________ Mauritius Hot line Details ________________________ -->
+    <string name="mau_CountryCode" translatable="false">Mau</string>
+    <string name="mau_helpNumber" translatable="false">8924</string>
+
+    <!-- _______________________ Mozamb Hot line Details ________________________ -->
+    <string name="moz_CountryCode" translatable="false">Moz</string>
+    <string name="moz_helpNumber" translatable="false">84146</string>
+    <string name="moz1_CountryCode" translatable="false">Moz</string>
+    <string name="moz1_helpNumber" translatable="false">82149</string>
+    <string name="moz2_CountryCode" translatable="false">Moz</string>
+    <string name="moz2_helpNumber" translatable="false">1490</string>
+    <string name="moz3_CountryCode" translatable="false">Moz</string>
+    <string name="moz3_helpNumber" translatable="false">258</string>
+    <string name="moz4_CountryCode" translatable="false">Moz</string>
+    <string name="moz4_helpNumber" translatable="false">*660#</string>
+
+
+    <!-- _______________________ Namibia Hot line Details ________________________ -->
+    <string name="nam_CountryCode" translatable="false">Nam</string>
+    <string name="nam_helpNumber" translatable="false">0800100100</string>
+
+    <!-- _______________________ Seychelles Hot line Details ________________________ -->
+    <string name="sey_CountryCode" translatable="false">Sey</string>
+    <string name="sey_helpNumber" translatable="false">141</string>
+
+
+    <!-- _______________________ South Africa Hot line Details ________________________ -->
+    <string name="rsa_CountryCode" translatable="false">RSA</string>
+    <string name="rsa_helpNumber" translatable="false">0800029999</string>
+    <string name="rsa1_CountryCode" translatable="false">RSA</string>
+    <string name="rsa1_helpNumber" translatable="false">0800111131</string>
+
+    <!-- _______________________ Tanzania Hot line Details ________________________ -->
+    <string name="tan_CountryCode" translatable="false">Tan</string>
+    <string name="tan_helpNumber" translatable="false">+255 800110124</string>
+    <string name="tan1_CountryCode" translatable="false">Tan</string>
+    <string name="tan1_helpNumber" translatable="false">+255 800110125</string>
+    <string name="tan2_CountryCode" translatable="false">Tan</string>
+    <string name="tan2_helpNumber" translatable="false">25577369919</string>
+
+    <!-- _______________________ Zambia Hot line Details ________________________ -->
+    <string name="zam_CountryCode" translatable="false">Zam</string>
+    <string name="zam_helpNumber" translatable="false">909</string>
+    <string name="zam1_CountryCode" translatable="false">Zam</string>
+    <string name="zam1_helpNumber" translatable="false">+260 974493553</string>
+    <string name="zam2_CountryCode" translatable="false">Zam</string>
+    <string name="zam2_helpNumber" translatable="false">+260 964638726</string>
+    <string name="zam3_CountryCode" translatable="false">Zam</string>
+    <string name="zam3_helpNumber" translatable="false">+260 953898941</string>
+
+
+    <!-- _______________________ Zimbabwe Hot line Details ________________________ -->
+    <string name="zim_CountryCode" translatable="false">Zim</string>
+    <string name="zim_helpNumber" translatable="false">+263714734593</string>
+    <string name="zim1_CountryCode" translatable="false">Zim</string>
+    <string name="zim1_helpNumber" translatable="false">+263774112531</string>
+
+
+    <string name="coronavirus_disease">2019 Coronavirus Disease (COVID-19)</string>
+    <string name="coronaviruses_cov_are">Coronaviruses (CoV) are a large family of viruses that cause illness ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS-CoV) and Severe Acute Respiratory Syndrome (SARS-CoV). A novel coronavirus (nCoV) is a new strain that has not been previously identiﬁed in humans.</string>
+    <string name="visit_http">Visit  https://coronastats.oneskyapp.com/</string>
+    <string name="app_version" translatable="false">Version 1.1.0</string>
+    <string name="licenses">licenses</string>
+
+
+</resources>

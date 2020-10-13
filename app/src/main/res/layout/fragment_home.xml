@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/backgroundss"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="66dp">
+
+        <RelativeLayout
+            android:id="@+id/blueSection"
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:background="@color/totalActive">
+
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:paddingTop="30dp"
+                android:src="@drawable/ic_users_mask" />
+
+            <TextView
+                android:id="@+id/worldWideCases"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="60dp"
+                android:layout_marginEnd="10dp"
+                android:fontFamily="@font/quicksand"
+                android:text="@string/worldwide_cases"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textStyle="bold"
+                android:textColor="@color/notSoWhite"
+                android:textSize="34sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvTotalConfirmed"
+                android:layout_below="@id/worldWideCases"
+                android:textSize="36sp"
+                android:fontFamily="@font/quicksand"
+                android:layout_centerHorizontal="true"
+                tools:text="255"
+                android:textColor="@color/notSoWhite"/>
+
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:clickable="true"
+            android:id="@+id/deathsLayout"
+            android:layout_marginTop="-30dp"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/curved_bacground_border_blue"
+            android:layout_below="@id/blueSection"
+            android:focusable="true">
+
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvLabelTotalDeaths"
+                style="@style/LabelFontStyle"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="10dp"
+                android:text="@string/total_deaths"
+                android:textColor="@color/totalDeaths"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvTotalDeaths"
+                android:layout_below="@id/tvLabelTotalDeaths"
+                android:textSize="36sp"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="10dp"
+                android:fontFamily="@font/quicksand"
+                tools:text="0"
+                android:textColor="@color/totalDeaths"/>
+
+            <ImageView
+                android:layout_width="100dp"
+                android:padding="10dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/ic_headstone"
+                android:layout_alignParentRight="true"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:clickable="true"
+            android:focusable="true"
+            android:id="@+id/recoveredLayout"
+            android:layout_marginTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/curved_bacground_border_blue"
+            android:layout_below="@id/deathsLayout">
+
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvLabelTotalRecovered"
+                style="@style/LabelFontStyle"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="10dp"
+                android:text="@string/total_recovered"
+                android:textColor="@color/totalRecoveries"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvTotalRecovered"
+                android:layout_below="@+id/tvLabelTotalRecovered"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="10dp"
+                android:textSize="36sp"
+                android:fontFamily="@font/quicksand"
+                tools:text="55"
+                android:textColor="@color/totalRecoveries"/>
+
+
+
+            <ImageView
+                android:layout_width="100dp"
+                android:padding="10dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/ic_recovery"
+                android:layout_alignParentEnd="true"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:clickable="true"
+            android:focusable="true"
+            android:id="@+id/activeLayout"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/curved_bacground_border_blue"
+            android:layout_below="@id/recoveredLayout">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvLabelTotalActive"
+                style="@style/LabelFontStyle"
+                android:layout_marginTop="5dp"
+                android:layout_marginStart="10dp"
+                android:text="@string/total_active"
+                android:textColor="@color/totalActive"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvTotalActive"
+                android:textSize="36sp"
+                android:layout_below="@+id/tvLabelTotalActive"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="10dp"
+                android:fontFamily="@font/quicksand"
+                tools:text="25"
+                android:textColor="@color/totalActive"/>
+
+
+
+            <ImageView
+                android:layout_width="100dp"
+                android:padding="10dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/ic_earth_planet"
+                android:layout_alignParentEnd="true"/>
+
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/quicksand_light"
+            android:id="@+id/tvLastUpdate"
+            tools:text="Last Update \n Mon, 08 Jun 2020  1:20:30 PM"
+            android:textColor="@color/notSoWhite"
+            android:layout_margin="10dp"
+            android:gravity="center"
+            android:textAlignment="center"
+            android:layout_centerHorizontal="true"/>
+
+        <ProgressBar
+            android:padding="10dp"
+            android:id="@+id/progress_circular"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginEnd="56dp"
+            android:indeterminateDrawable="@drawable/loading_animation"
+            android:indeterminateDuration="1500"
+            android:layout_centerHorizontal="true"
+            android:layout_centerInParent="true"
+            android:layout_centerVertical="true" />
+
+
+
+
+
+
+    </RelativeLayout>
+
+
+
+</ScrollView>
+

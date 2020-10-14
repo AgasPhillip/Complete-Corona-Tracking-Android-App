@@ -6,7 +6,7 @@ CORONA STATS mobile app is an innovation to make it easier for users to be aware
 
 Screenshots comming Soon 
 
-![](screenshots/countries_08.png)    ![](screenshots/loadingScreen_03.png)   ![](screenshots/loading%20screens_02.png)  ![](screenshots/country_details_12.png)  ![](screenshots/countries_08.png)
+![](Screenshots/countries_08.png)    ![](Screenshots/loadingScreen_03.png)   ![](Screenshots/loading%20screens_02.png)  ![](Screenshots/country_details_12.png)  ![](Screenshots/countries_08.png)
 
 
 

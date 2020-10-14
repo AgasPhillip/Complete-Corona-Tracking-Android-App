@@ -6,11 +6,9 @@ CORONA STATS mobile app is an innovation to make it easier for users to be aware
 
 Screenshots comming Soon 
 
-1. https://github.com/Complete-Corona-Tracking-Android-App/Screenshot/search_feature_09.png
-2. https://github.com/Complete-Corona-Tracking-Android-App/Screenshot/loadingScreen_03.png
-3. https://github.com/Complete-Corona-Tracking-Android-App/Screenshot/loading screens_02.png
-4. https://github.com/Complete-Corona-Tracking-Android-App/Screenshot/country_details_12.png
-5. https://github.com/Complete-Corona-Tracking-Android-App/Screenshot/countries_08.png
+![](screenshots/countries_08.png)    ![](screenshots/loadingScreen_03.png)   ![](screenshots/loading%20screens_02.png)  ![](screenshots/country_details_12.png)  ![](screenshots/countries_08.png)
+
+
 
 
 

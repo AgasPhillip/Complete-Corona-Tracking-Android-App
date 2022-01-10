@@ -6,7 +6,7 @@ CORONA STATS mobile app is an innovation to make it easier for users to be aware
 
 Screenshots comming Soon 
 
-![](Screenshots/countries_08.png)    ![](Screenshots/loadingScreen_03.png)   ![](Screenshots/loading%20screens_02.png)  ![](Screenshots/country_details_12.png)  ![](Screenshots/countries_08.png)
+![](Screenshots/aa.jpg)    ![](Screenshots/ab.jpg)   ![](Screenshots/ac.jpg)  ![](Screenshots/ad.jpg)  ![](Screenshots/ae.jpg)  ![](Screenshots/af.jpg) ![](Screenshots/ag.jpg)
 
 
 
@@ -14,7 +14,7 @@ Screenshots comming Soon
 
 
 Apk Download
+Comming soon
 
 
-
-
+_______________________________________________________________
